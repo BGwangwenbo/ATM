@@ -5,12 +5,21 @@ Computer network course experiments
 
 # 仓库结构
 main  
-├──Client  
-│  └──Client.java//客户端源文件  
-│  
-└──Server  
-   ├──src//服务端源文件  
-   │  └──Server.java  
-   └──out//class文件  
-      ├──ClientHandler.class  
-      └──Server.class  
+<figure>
+   Client 
+   <figure>
+      Client.java//客户端源文件  
+   </figure>
+   Server  
+   <figure>
+      src//服务端源文件  
+      <figure>
+         Server.java  
+      </figure>
+      out//class文件  
+      <figure>
+         ClientHandler.class  
+         Server.class  
+      </figure>
+   </figure>
+</figure>
