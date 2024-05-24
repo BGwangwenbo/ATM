@@ -5,8 +5,8 @@ Computer network course experiments
 
 # 仓库结构
 main   
-&emsp;&emsp;Client  
-&emsp;&emsp;&emsp;&emsp;Client.java&emsp;&emsp;//客户端源文件  
+&emsp;&emsp;Client&emsp;&emsp;//客户端源文件  
+&emsp;&emsp;&emsp;&emsp;Client.java  
 &emsp;&emsp;Server  
 &emsp;&emsp;&emsp;&emsp;src&emsp;&emsp;//服务端源文件  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Server.java  
