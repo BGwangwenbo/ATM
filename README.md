@@ -6,7 +6,7 @@ Computer network course experiments
 # 仓库结构
 main   
 &emsp;&emsp;Client&emsp;&emsp;//客户端源文件  
-&emsp;&emsp;&emsp;&emsp;Client.java  
+&emsp;&emsp;&emsp;&emsp;ATMClient_2.java  
 &emsp;&emsp;Server  
 &emsp;&emsp;&emsp;&emsp;database&emsp;&emsp;//数据库数据  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;error_log.xlsx  
